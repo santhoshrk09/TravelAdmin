@@ -7,7 +7,7 @@ import RecentLeads from './Components/RecentLeads';
 import QuickActions from './Components/QuickActions';
 
 
-import { stats, inventoryItems, recentLeads, quickActions, sidebarItems } from './data/dashboardData';
+import { stats, inventoryItems, recentLeads, quickActions, sidebarItems } from './Data/dashboardata';
 
 
 export default function App() {
